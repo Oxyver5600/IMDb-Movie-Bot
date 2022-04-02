@@ -50,7 +50,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('🕵️ Search here Movie 🕵️', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('⭕️ Updates', url='https://t.me/josprojects'),
+            InlineKeyboardButton('⭕️ Updates', url='https://t.me/Oxyver_Support_Channel'),
             InlineKeyboardButton('Movie Channel ⭕️', url='https://t.me/Oxyver_hindi_movies')
             ],[
             InlineKeyboardButton('❌ Close the Menu ❌', callback_data='close_data')
